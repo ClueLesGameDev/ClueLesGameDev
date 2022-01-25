@@ -20,9 +20,7 @@ while(!success)
 }
 ```
 
-- Check out these Git Accounts for my University Projects :
-  - https://github.com/GRaj-gitHub 
-  - https://github.com/GopikaRaj1105
+- Check out these Git Accounts for my Unity and C++ Projects : https://github.com/GRaj-gitHub 
 
 - Contact me on: gopika.raj.1105@gmail.com
 
