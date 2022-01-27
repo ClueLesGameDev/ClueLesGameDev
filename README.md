@@ -10,9 +10,6 @@ My passion lies in creating games that can be enjoyed by everyone. I love proble
 Proficient: C++, Unity, C#, HTML, CSS, JS
 Familiar: Python, SDL/openGL, Lua
 
-- Check out my playstore developer page under **"The Game Factory"** : 
-  - https://play.google.com/console/u/0/developers/8510641127926508569/app-list?pli=1
-
 - To learn C++ and Unreal Engine Game Dev, check out my **"Youtube Channel"** : 
 
 - For more updates about upcoming games and projects :
