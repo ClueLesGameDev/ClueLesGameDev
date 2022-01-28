@@ -10,9 +10,7 @@ My passion lies in creating games that can be enjoyed by everyone. I love proble
 Proficient: C++, Unity, C#, HTML, CSS, JS
 Familiar: Python, SDL/openGL, Lua
 
-- To learn C++ and Unreal Engine Game Dev, check out my **"Youtube Channel"** : 
-
-- For more updates about upcoming games and projects :
+- For more details, Checkout my **LinkedIn Profile** : https://www.linkedin.com/in/gopika-raj/
 
 ```C++
 while(!success)
@@ -25,6 +23,10 @@ while(!success)
 ```
 
 - Check out these Git Accounts for my Unity and C++ Projects : https://github.com/GRaj-gitHub 
+
+- To learn C++ and Unreal Engine Game Dev, check out my **"Youtube Channel"** : 
+
+- For more updates about upcoming games and projects :
 
 - Contact me on: gopika.raj.1105@gmail.com
 
